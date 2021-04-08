@@ -1,0 +1,26 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.main {
+    display: 'flex';
+    width: 80%;
+}
+
+.main p {
+    margin-bottom: 30px;
+}
+
+.main h1, h2 {
+    margin-bottom: 20px;
+}
